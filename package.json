@@ -1,0 +1,9 @@
+{
+    "homepage": "https://hataevicha5922.github.io/test-tale-in",
+    "scripts": {
+        "deploy": "gh-pages -d ."
+    },
+    "devDependencies": {
+        "gh-pages": "^6.3.0"
+    }
+}
